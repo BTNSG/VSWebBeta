@@ -1,0 +1,16 @@
+{
+"companyName": "BTN Pte Ltd",
+"productName": "Virtual Spaces Sim",
+"productVersion": "0.2",
+"dataUrl": "a95632e41a5a4804aaf631dd16439237.unityweb",
+"wasmCodeUrl": "3fd5d420b29b3a86e4de1ac0799b3d84.unityweb",
+"wasmFrameworkUrl": "8d68a61a975db67fd37f5da32d7b2969.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.15f1"
+}
